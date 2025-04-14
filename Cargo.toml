@@ -31,7 +31,7 @@ wasm-bindgen = "=0.2.100"
 # that are used together frontend (lib) & server (bin)
 [[workspace.metadata.leptos]]
 # this name is used for the wasm, js and css file names
-name = "webdev"
+name = "rweb"
 
 # the package in the workspace that contains the server binary (binary crate)
 bin-package = "server"
