@@ -14,11 +14,11 @@ panic = "abort"
 codegen-units = 1
 
 [workspace.dependencies]
-leptos = { version = "0.7", features = ["islands"] }
-leptos_meta = { version = "0.7"}
-leptos_router = { version = "0.7" }
-leptos_axum = { version = "0.7" }
-axum = "0.7"
+leptos = { version = "0.8", features = ["islands"] }
+leptos_meta = { version = "0.8"}
+leptos_router = { version = "0.8" }
+leptos_axum = { version = "0.8" }
+axum = "0.8"
 console_error_panic_hook = "0.1"
 console_log = "1"
 log = "0.4"
